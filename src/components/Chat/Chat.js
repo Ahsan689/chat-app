@@ -10,7 +10,7 @@ import Input from '../Input/Input';
 
 import './Chat.css'
 
-const ENDPOINT = 'https://chat-app-server-nine.vercel.app/';
+const ENDPOINT = 'https://chat-app-server-production-0c1c.up.railway.app/';
 // const ENDPOINT = 'http://localhost:5000';
 
 const Chat = () => {
