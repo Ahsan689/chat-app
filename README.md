@@ -69,6 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
  -->
+ # ReactJS + Socket.io + Nodejs
  
  This is a Realtime Chat Application with React on the front end, NodeJS + Socket.io web socket library on the back end.
 
